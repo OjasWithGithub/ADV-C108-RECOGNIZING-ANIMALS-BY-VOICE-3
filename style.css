@@ -1,0 +1,38 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: rgb(189, 136, 202);
+}
+
+.header{
+    background: rgb(255, 229, 229);
+    color:rgb(255, 63, 63)
+}
+
+header p{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(83, 83, 83);
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-top: 30px;
+
+}
+
+.footer{
+    position: fixed;
+    background-color: rgb(187, 187, 187);
+    color:rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(42, 42, 42);
+    width: 100%;
+    line-height: 3;
+    font-size: 17px;
+    bottom: 0;
+}
